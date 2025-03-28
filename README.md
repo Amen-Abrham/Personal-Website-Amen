@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amen Portfolio</title>
+    <title>Amen-Abrham Portfolio</title>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Open+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -129,7 +129,7 @@
 <body>
     <div class="container">
         <header>
-            <div class="name">Amen Portfolio</div>
+            <div class="name">Amen-Abrham Portfolio</div>
         </header>
 
         <section class="section">
